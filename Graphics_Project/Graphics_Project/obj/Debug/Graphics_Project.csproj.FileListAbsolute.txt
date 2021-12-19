@@ -1,0 +1,13 @@
+D:\Graphics_Project\Graphics_Project\bin\Debug\Graphics_Project.exe.config
+D:\Graphics_Project\Graphics_Project\bin\Debug\Graphics_Project.exe
+D:\Graphics_Project\Graphics_Project\bin\Debug\Graphics_Project.pdb
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.csprojResolveAssemblyReference.cache
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.Main.resources
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.Properties.Resources.resources
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.csproj.GenerateResource.Cache
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.exe
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.pdb
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.DDA.resources
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.Bresenham.resources
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.Circle.resources
+D:\Graphics_Project\Graphics_Project\obj\Debug\Graphics_Project.Elipse.resources
